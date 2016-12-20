@@ -4,6 +4,11 @@
 
 ##活动计划：
 
+
+
+##翻译内容：
+
+[Link]http://dev.mysql.com/doc/refman/5.7/en/faqs.html
 ###完成时间：
 
 

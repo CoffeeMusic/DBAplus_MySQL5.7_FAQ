@@ -21,6 +21,9 @@
 
 8、9章
 
+##提交邮箱
 
+
+geyunjie@dbaplus.cn , gaoqiang@dbaplus.cn
 
 _注：目前有翻译者领取了几章，内容较少，如果有多余 精力，可分担8、9章的翻译任务。_
